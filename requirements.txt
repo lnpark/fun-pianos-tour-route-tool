@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+requests
+shapely
+pyproj
+osmnx
+
